@@ -10,12 +10,12 @@ Application en C encodant et décodant un message selon les algorithmes : César
 
 * [Objectif](#Obj)
 * [Démarrage](#Démarrage)
+* [Conçu avec](#Concu)
+* [Documentation](#Docu)
   * [Chiffrage](#Chiff)
   * [Affichage](#Aff)
   * [Verif](#Verif)
   * [Main](#main)
-* [Conçu avec](#Concu)
-* [Documentation](#Docu)
 * [Equipe](#Equipe)
 
 
