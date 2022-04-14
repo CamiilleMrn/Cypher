@@ -103,9 +103,6 @@ void choixCrypt();
 ### Verif
 
 ```C
-#include <stdio.h>
-#include <string.h>
-#include <stdbool.h>
 
 /*  Prend en entrée une chaine de caractère 
     Renvoie TRUE si la chaine est en alphanumérique, FALSE sinon */
