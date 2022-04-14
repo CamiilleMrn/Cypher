@@ -4,6 +4,16 @@
 
 Application en C encodant et décodant un message selon les algorithmes : César, Vigénère et ROT13
 ---
+<div id="Som"/>
+  
+## Sommaire
+
+- [Objectif](#Obj)
+- [Démarrage](#Démarrage)
+- [Conçu avec](#Concu)
+- [Equipe](#Equipe)
+
+
 <div id="Obj"/>
   
 ## Objectif
@@ -12,9 +22,26 @@ Application en C encodant et décodant un message selon les algorithmes : César
 
 <img src="https://media.discordapp.net/attachments/950656324377640960/963814296414990366/unknown.png">
 
+<div id='Démarrage'/>
+
+## Démarrage
+
+Pour lancer notre programme il suffit simplement de télécharger notre projet et dans un terminal taper : ``make all && ./main``.
+
+<div id='Concu'/>
+
+## Conçu avec
+
+* [VisualStudioCode](https://code.visualstudio.com/) - IDE
+* [WSL](https://atom.io/) - Linux sous windows (bureau distant)
+
 <div id='Equipe'/>
 
 ## Equipe
-
-  L'équipe est constituée de MOLE Alexandre, LECLERC Benoit, EDELIN Louis et MARION Camille étudiants en informatique à l'IUT Paul Sabatier de Toulouse
-
+L'équipe est constituée de :
+  - MOLE Alexandre
+  - LECLERC Benoit
+  - EDELIN Louis 
+  - MARION Camille
+ 
+ Etudiants en informatique à l'IUT Paul Sabatier de Toulouse
