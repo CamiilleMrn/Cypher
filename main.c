@@ -164,8 +164,6 @@ void main(){
             fgets(option,10,stdin);
             option[strlen(option)-1] ='\0';
 
-            printf("ROT13");
-
             // Encoder une chaine
             if (strcmp(option,"1") == 0){
 
