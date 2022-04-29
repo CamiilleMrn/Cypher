@@ -127,9 +127,9 @@ void main();
 
 ## Equipe
 L'équipe est constituée de :
-  - MOLE Alexandre
-  - LECLERC Benoit
-  - EDELIN Louis 
-  - MARION Camille
+  - [MOLE Alexandre](https://github.com/AlexPloz)
+  - [LECLERC Benoit](https://github.com/Benito65536)
+  - [EDELIN Louis](https://github.com/MugiwaraNoLooki)
+  - [MARION Camille](https://github.com/CamiilleMrn )
  
  Etudiants en informatique à l'IUT Paul Sabatier de Toulouse
