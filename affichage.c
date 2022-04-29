@@ -29,7 +29,7 @@
 #include "affichage.h"
 
 void presentation(){
-    printf("\n                                    ALGORITHMES DE CRYPTAGES                                           \n");
+    printf("\n                                    ALGORITHMES DE CRYPTAGE                                            \n");
     printf("---------------------------------------------------------------------------------------------------------\n");
     printf("| Avec quel algorithme souhaitez vous encoder votre message ( 0, 1, 2, 3 ) :                            |\n");
     printf("|   0. Quitter                                                                                          |\n");
